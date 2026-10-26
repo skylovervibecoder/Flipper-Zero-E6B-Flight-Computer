@@ -1,6 +1,8 @@
 # Flipper-Zero-E6B-Flight-Computer
 Flipper Zero E6B flight computer app useful for aviation pilots.
 
+![e6b](e6b.png)
+
 **E6B Flight Computer v1.0** is a flight calculation application for the Flipper Zero, developed by **Marcopiiit** for compatible firmware such as Momentum.
 
 Inspired by the aviation E6B flight computer, this application provides a collection of calculations for flight planning, navigation, wind correction, fuel management, altitude, speed, and unit conversions.
